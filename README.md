@@ -14,6 +14,7 @@ I am *Licensed in Computational Administrative Systems* focused on Development, 
     <strong>Phone:</strong>&nbsp;(+52) (871)-310-7511
 </blockquote>
 
+## Knowledge
 ### University
 **Universidad Autonoma de Coahuila** Torreón Unit<br />
 Licenciatura en Sistemas Computacionales Administrativos<br />
@@ -55,7 +56,7 @@ Licenciatura en Sistemas Computacionales Administrativos<br />
 - Python
 - .NET
 
-##### Work Experience: 3 Years
+## Work Experience: 3 Years
 - **Surman** - 3 Months, end August 2019
 
 IT Analyst - Development of private software under the .NET platform and .NET Core platform

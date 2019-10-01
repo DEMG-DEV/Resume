@@ -1,4 +1,9 @@
+Teléfono: (871)-310-7511  Correo: demg@outlook.com  Web: https://demgdev.blogspot.com/
+
 # LSCA David Enrique Mendez Guardado
+
+<img src="img/logo.jpg" alt="David Enrique Mendez Guardado" width="100"/>
+
 I am *Licensed in Computational Administrative Systems* focused on Development, which is constantly learning to try to keep up with the new technologies that are being presented, as well as to practice new methodologies and new programming languages which can be applied in daily use within my personal life as work making my interaction with technology easier.
 
 <blockquote>
